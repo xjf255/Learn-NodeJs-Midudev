@@ -1,0 +1,13 @@
+### Recuperar informacion
+GET http://localhost:1234/persons/rick
+
+### Para crear un pokemon
+
+POST http://localhost:1234/persons
+Content-Type: application/json
+
+{
+  "full_name": "Eithan Sanchez",
+  "age": "3",
+  "about": "Baby"
+}

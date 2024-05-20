@@ -1,0 +1,52 @@
+[
+  {
+    "full_name": "Rick Sanchez",
+    "age": "70",
+    "about": "An eccentric and alcoholic scientist"
+  },
+  {
+    "full_name": "Morty Smith",
+    "age": "14",
+    "about": "Rick's easily influenced grandson"
+  },
+  {
+    "full_name": "Summer Smith",
+    "age": "17",
+    "about": "Rick's granddaughter"
+  },
+  {
+    "full_name": "Beth Smith",
+    "age": "34",
+    "about": "Rick's daughter and a horse surgeon"
+  },
+  {
+    "full_name": "Jerry Smith",
+    "age": "34",
+    "about": "Rick's son-in-law and a low-level employee at a advertising agency"
+  },
+  {
+    "full_name": "Jessica",
+    "age": "17",
+    "about": "A girl from Morty's school"
+  },
+  {
+    "full_name": "Birdperson",
+    "age": "Unknown",
+    "about": "Rick's best friend"
+  },
+  {
+    "full_name": "Squanchy",
+    "age": "Unknown",
+    "about": "A cat-like anthropomorphic creature"
+  },
+  {
+    "full_name": "Mr. Meeseeks",
+    "age": "Unknown",
+    "about": "A creature that exists solely to fulfill a single purpose"
+  },
+  {
+    "full_name": "Evil Morty",
+    "age": "Unknown",
+    "about": "A version of Morty who is revealed to be the true mastermind behind the events of the episode"
+  }
+]
